@@ -55,7 +55,7 @@ class BTGenresClass {
         { name: 'Demons', param: 'demons' },
         { name: 'Drama', param: 'drama' },
         { name: 'Dungeons', param: 'dungeons' },
-        { name: 'Emperor\'s daughte', param: 'emperor_daughte' },
+        { name: 'Emperor\'s daughter', param: 'emperor_daughte' },
         { name: 'Fantasy', param: 'fantasy' },
         { name: 'Fan-Colored', param: 'fan_colored' },
         { name: 'Fetish', param: 'fetish' },
@@ -95,7 +95,9 @@ class BTGenresClass {
         { name: 'Psychological', param: 'psychological' },
         { name: 'Regression', param: 'regression' },
         { name: 'Reincarnation', param: 'reincarnation' },
-        { name: 'Reverse', param: 'reverse_isekai' },
+        { name: 'Reverse Harem', param: 'reverse_harem' }, // Added
+        { name: 'Revenge', param: 'revenge' }, // Added
+        { name: 'Reverse Isekai', param: 'reverse_isekai' },
         { name: 'Romance', param: 'romance' },
         { name: 'Royal', param: 'royal_family' },
         { name: 'Royalty', param: 'royalty' },
